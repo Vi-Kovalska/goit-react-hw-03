@@ -1,0 +1,30 @@
+.addressWrapper{
+    width: 250px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.contactWrapper{
+    display: flex;
+    flex-direction: column;
+}
+.contAndIconWrapper{
+display: flex;
+justify-content: flex-start;
+align-items: center;
+gap: 15px;
+}
+.icon{
+    display: flex;
+    fill: black;
+}
+.btnDelContact{}
+.text{
+    font-weight: 500;
+    color: black;
+    font-style: normal;
+}
