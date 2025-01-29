@@ -18,11 +18,6 @@ justify-content: flex-start;
 align-items: center;
 gap: 15px;
 }
-.icon{
-    display: flex;
-    fill: black;
-}
-.btnDelContact{}
 .text{
     font-weight: 500;
     color: black;
